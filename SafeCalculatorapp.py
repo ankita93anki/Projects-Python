@@ -61,7 +61,7 @@ while True:
         else:
             print("Invalid choice. Please select a valid option.")
     except ValueError:
-        print("Invalid input. Please enter a valid numbers.")
+        print("Invaliid input. Please enter a valid numbers.")
     except ZeroDivisionError as e:
         print(e)
 
