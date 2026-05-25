@@ -64,6 +64,8 @@ while True:
         print("Invaliid input. Please enter a valid numbers.")
     except ZeroDivisionError as e:
         print(e)
+    except Exception as e:
+        print(f"An unexpected error ooccur {e}")
 
     
         
