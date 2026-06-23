@@ -3,7 +3,7 @@
 import requests
 
 #Step 1: API SETUP
-API_KEY="93f19e6a7f7fe65e59dee403828815f2"
+API_KEY="API_KEY"
 BASE_URL=f"https://api.openweathermap.org/data/2.5/weather"
 
 #Step 2: Get Weather Data
