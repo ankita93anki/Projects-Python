@@ -6,4 +6,7 @@ age = int(input("How old are you?"))
 color = input("What is your favorite color?")
 
 #Step 2: Generate a personalized greeting message
-print(f"Hello, {name}! you are {age} years old.")
+print("\n----Personalized Greeting-----------")
+print(f"Hello, {name}!")
+print(f"You are {age} years old and {color} is a beautiful color!")
+print(f"Yo're now ready to start your Python adventure")
