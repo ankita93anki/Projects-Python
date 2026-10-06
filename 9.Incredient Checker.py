@@ -48,3 +48,5 @@ if missing_ingredients:
     print(f"You are missing the following ingredients: {', '.join(missing_ingredients)}")
 else:
     print("you have all the ingredients needed.")
+
+print(f"Extra Ingredients: {extra_ingredients}")
