@@ -5,6 +5,10 @@
   },
   {
     "task": "Learn Python",
-    "status": "Incmplete"
+    "status": "Incomplete"
+  },
+  {
+    "task": "Learn Python 2",
+    "status": "Incomplete"
   }
 ]
